@@ -6,18 +6,13 @@ import Cell from './Cell'
 // Example:
 // const items = [
 //   {
-//     name: 'sneaker',
-//     type: 'clothes',
-//     spriteId: 7,
-//     size: 'normal',
-//     placeId: 1
-//   },
-//   {
 //     name: 'trousers',
 //     type: 'clothes',
-//     spriteId: 8,
+//     spriteId: 8, позиция спрайта
 //     size: 'normal'
-//     placeId: 5
+//     placeId: 5, позиция в инвентаре
+//     count: 1,
+//     desc: 'Какое то описание'
 //   }
 // ]
 
